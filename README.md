@@ -15,8 +15,9 @@ About Me :
 
 **Contact me** 
 <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="https://www.linkedin.com/in/niteesha-adapala/" width="40" height="40"/>
-      <a href="mailto:niteesha.adapala@gmail.com">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="https://www.linkedin.com/in/niteesha-adapala/" width="30" height="30"/>
+      
+  <a href="mailto:niteesha.adapala@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" style="vertical-align:middle;" alt="Email" />
   </a>
 </div>
