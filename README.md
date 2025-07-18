@@ -1,8 +1,8 @@
 ## Hello there, I'm Niteesha!👋  
 
 <p align="center">
-  <! imgsrc="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="500">
-  <!img src = "https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif" width="50>
+  <!-- imgsrc="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" width="500">
+  <!--img src = "https://user-images.githubusercontent.com/103105418/170674219-70ba74ec-d205-483a-b8a7-bfb7530c29f0.gif" width="50-->
   <img src = "https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif" width = "500>
 </p>
 
