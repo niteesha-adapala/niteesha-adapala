@@ -13,18 +13,21 @@ About Me :
 
 🚀 **Showcasing my skills and projects as I explore new opportunities where I can make meaningful contributions.**
 
-## 🧠 Skills
+<!--## Skills
 
-### 🖥️ Programming & Scripting Languages
+### 🖥Programming & Scripting Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img scr= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngdownload.io%2Fpng-image%2Fpython-programming-code-coding-transparent-png image%2F&psig=AOvVaw0SXukIjqhP6AlSQD0IEA04&ust=1752953943562000&source=images&cd=vfe&opi=89978449&ved=0CBYQjRxqFwoTCMiZ-fuhx44DFQAAAAAdAAAAABAE"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white"/>
 </p>
 
-### 📊 Data Analysis & Visualization
+
+
+### Data Analysis & Visualization
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -33,7 +36,7 @@ About Me :
   <img src="https://img.shields.io/badge/Chimera-505BAC?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🧬 Bioinformatics & Scientific Tools
+### Bioinformatics & Scientific Tools
 <p align="left">
   <img src="https://img.shields.io/badge/GROMACS-0084B1?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/AutoDock-7E57C2?style=for-the-badge&logoColor=white"/>
@@ -43,7 +46,7 @@ About Me :
   <img src="https://img.shields.io/badge/IGV-FF6F61?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 📚 Databases & Repositories
+### Databases & Repositories
 <p align="left">
   <img src="https://img.shields.io/badge/NCBI-3C3C3C?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/UniProt-4285F4?style=for-the-badge&logoColor=white"/>
@@ -52,7 +55,7 @@ About Me :
   <img src="https://img.shields.io/badge/GTEx-660099?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🤖 Machine Learning & Frameworks
+### Machine Learning & Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
@@ -67,7 +70,7 @@ About Me :
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/SLURM-00BFFF?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/-->
 </p>
 
 
