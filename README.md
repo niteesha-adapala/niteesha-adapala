@@ -7,7 +7,7 @@
 </p>
 
 About Me :
-- 🎓 I'm a recent graduate in **Bioinformatics & Data Science** at University of Delaware
+- 🎓 I'm a recent graduate in **Bioinformatics & Data Science** from University of Delaware
 - 🧬 Passionate about **computational biology**, **drug discovery**, and **machine learning for healthcare**
 - 🖥️ Ex-Software Developer at **Tata Consultancy Services**
 
